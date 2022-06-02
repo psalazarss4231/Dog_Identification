@@ -68,7 +68,7 @@ Improvements that can be applied to the model:
 - Increasing the nodes.
 - Increasing the number of layers.
 
-<a name="authors"></a>
+<a name="authors"></auth>
 
 ### Author
 
