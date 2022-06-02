@@ -12,6 +12,8 @@ In this project, we apply convolutional neural networks (CNN) and transfer learn
 Our project identifies and gives a suggestion of the breed of the dog of the image that is supplied by means of a classification algorithm, in case of being an image of a human the algorithm will identify it, and in a third case if it is an object He will say that he is not a dog or a human.
 
 ## Contents
+
+0. [Blog Route](#r)
 1. [Motivation](#m)
 2. [File structure](#e)
 3. [Instructions](#i)
@@ -19,6 +21,10 @@ Our project identifies and gives a suggestion of the breed of the dog of the ima
 5. [Content](#c)
 6. [Findings](#h)
 7. [Author](#auth)
+
+<a name="r"></a>
+
+### Blog Route
 
 <a name="m"></a>
 
