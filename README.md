@@ -28,6 +28,8 @@ Our project identifies and gives a suggestion of the breed of the dog of the ima
 
 <a name="m"></a>
 
+https://psalazarss.wixsite.com/my-site
+
 ### Motivation
 
 This is a Nanodegree data scientist project and consists of using neural networks (CNN) for image classification.
